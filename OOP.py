@@ -1,6 +1,4 @@
-
 from itertools import product
-
 
 class Product:
     def __init__(self, name, price, id):
